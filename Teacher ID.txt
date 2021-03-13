@@ -1,0 +1,8 @@
+ID	name	supervisor
+101	Mrs. Wang	
+102	Mrs. Green	101
+103	Mr. Dawson	101
+104	Mrs. White	
+105	Mrs. Lot	104
+106	Mrs. Fann	104
+107	Mr. Hudon	104
