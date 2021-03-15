@@ -1,6 +1,6 @@
-proc import datafile = "/folders/myfolders/sale_by_state_miss" 
-DBMS = xlsx out = sale_data REPLACE;
-run;
+PROC IMPORT datafile = "/folders/myfolders/sale_by_state_miss" 
+DBMS = xlsx OUT = sale_data REPLACE;
+RUN;
 
 /* 
 Instruction:
